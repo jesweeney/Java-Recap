@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.Random;
-
+/*
+Menu provides two options for the user and one exit
+First menu option outputs a random roll of 2 six-sided dice.
+Second menu option rolls n (given by user input) two-sided dice and then displays the amount of head or tails
+ */
 public class DiceMenu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
