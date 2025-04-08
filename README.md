@@ -3,21 +3,25 @@ As I continue my understanding of Java I want to recap on beginner basics.
 
 
 # Not Your First Program (Setting up IDE)
+I completed the following two objectives in 
 1. Implement IsOdd and test it in main.
 2. Implement IsPrime.
+   
 
 
 # Built in Data Types
 1. Write a program that outputs a random roll of 2 six-sided dice.
+   **I added to the objective by creating a menu that allows the user to pick the original objective, or flip several 2-sided dice provided by the user. The reason why I wanted to add to this particular objective is that I often play the Pokémon Trading card game, which frequently requires flipping a certain number of two-sided dice. This would allow me to estimate the number of heads/tails if I ever wanted to.
+   Completed this objective in DiceMenu.java file.
 
-2. Write a program that takes in the x and y coordinates of a point (via command-line args) and outputs the distance of the point from the origin.
+3. Write a program that takes in the x and y coordinates of a point (via command-line args) and outputs the distance of the point from the origin.
 You can use the distance formula d= sqrt(x^2+y^2)
 
-3. Write a program that outputs the values of x that satisfy the quadratic equation ax2+bx+c=0.
+4. Write a program that outputs the values of x that satisfy the quadratic equation ax2+bx+c=0.
 The program should take as input three command-line arguments denoting a,b,c. 
 The program can use the quadratic formula 
 
-4. Write a program that outputs whether an integer corresponds to a leap year.
+5. Write a program that outputs whether an integer corresponds to a leap year.
 
   A non-century year is a leap year if it is divisible by 4. A century year is a leap year if it is divisible by 400.
 
